@@ -9,7 +9,7 @@
 
 # 流程圖 :
 
-![socket流程圖.drawio.png](%E4%BD%BF%E7%94%A8C%E8%AA%9E%E8%A8%80%E5%BB%BA%E7%AB%8B%E8%81%8A%E5%A4%A9%E5%AE%A4%20(socket)%2006d36d0463fa4b26b68c86450876eb37/socket%25E6%25B5%2581%25E7%25A8%258B%25E5%259C%2596.drawio.png)
+![socket流程圖.drawio.png](https://github.com/sokai48/c_socket_chatroom/blob/main/socket%E6%B5%81%E7%A8%8B%E5%9C%96drawio.png)
 
 # **撰寫要點 :**
 
@@ -106,16 +106,16 @@
 
 1. 開啟SERVER監聽，等待CLIENT連接
     
-    ![Untitled](%E4%BD%BF%E7%94%A8C%E8%AA%9E%E8%A8%80%E5%BB%BA%E7%AB%8B%E8%81%8A%E5%A4%A9%E5%AE%A4%20(socket)%2006d36d0463fa4b26b68c86450876eb37/Untitled.png)
+    ![Untitled](https://github.com/sokai48/c_socket_chatroom/blob/main/Untitled.png)
     
 2. 三個CLIENT連接SERVER
     
-    ![Untitled](%E4%BD%BF%E7%94%A8C%E8%AA%9E%E8%A8%80%E5%BB%BA%E7%AB%8B%E8%81%8A%E5%A4%A9%E5%AE%A4%20(socket)%2006d36d0463fa4b26b68c86450876eb37/Untitled%201.png)
+    ![Untitled](https://github.com/sokai48/c_socket_chatroom/blob/main/Untitled%201.png)
     
 3. 各自輸入用戶名稱
     
-    ![Untitled](%E4%BD%BF%E7%94%A8C%E8%AA%9E%E8%A8%80%E5%BB%BA%E7%AB%8B%E8%81%8A%E5%A4%A9%E5%AE%A4%20(socket)%2006d36d0463fa4b26b68c86450876eb37/Untitled%202.png)
+    ![Untitled](https://github.com/sokai48/c_socket_chatroom/blob/main/Untitled%202.png)
     
 4. 各自傳送訊息，並收到其他人的訊息
     
-    ![Untitled](%E4%BD%BF%E7%94%A8C%E8%AA%9E%E8%A8%80%E5%BB%BA%E7%AB%8B%E8%81%8A%E5%A4%A9%E5%AE%A4%20(socket)%2006d36d0463fa4b26b68c86450876eb37/Untitled%203.png)
+    ![Untitled](https://github.com/sokai48/c_socket_chatroom/blob/main/Untitled%203.png)
